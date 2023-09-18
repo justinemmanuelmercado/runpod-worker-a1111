@@ -17,7 +17,7 @@ manually below, and then you don't need to follow any of the
 manual instructions.
 
 ```bash
-wget https://raw.githubusercontent.com/ashleykleynhans/runpod-worker-a1111/main/scripts/install.sh
+wget https://raw.githubusercontent.com/justinemmanuelmercado/runpod-worker-a1111/main/scripts/install.sh
 chmod +x install.sh
 ./install.sh
 ```
